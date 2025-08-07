@@ -1,12 +1,15 @@
 # 🌦️ WeatherWise - Real-Time Weather App
 
-![Weather App Screenshot](./src/assets/Demo.png)
-./src
-A sleek, dark-themed weather application built with React, Vite, and Tailwind CSS. Get real-time weather data for any city worldwide.
-
 ## 🚀 Live Demo
-[![GitHub Pages](https://img.shields.io/badge/Live_Demo-222222?style=for-the-badge&logo=github&logoColor=white)](https://as1fx.github.io/weather-app-react-tailwindcss)  
+<div align="center" >
+  [![GitHub Pages](https://img.shields.io/badge/Live_Demo-222222?style=for-the-badge&logo=github&logoColor=white)](https://as1fx.github.io/weather-app-react-tailwindcss)  
 *Hosted on GitHub Pages*
+</div>
+
+
+![Weather App Screenshot](./src/assets/Demo.png)
+
+A sleek, dark-themed weather application built with React, Vite, and Tailwind CSS. Get real-time weather data for any city worldwide.
 
 ## ✨ Features
 - 🔍 Type-as-you-search city lookup
