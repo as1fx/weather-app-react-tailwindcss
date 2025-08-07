@@ -1,10 +1,9 @@
 # 🌦️ WeatherWise - Real-Time Weather App
 
 ## 🚀 Live Demo
-<div align="center" >
 [![GitHub Pages](https://img.shields.io/badge/Live_Demo-222222?style=for-the-badge&logo=github&logoColor=white)](https://as1fx.github.io/weather-app-react-tailwindcss)  
 *Hosted on GitHub Pages*
-</div>
+
 
 
 ![Weather App Screenshot](./src/assets/Demo.png)
